@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tharun-Velupumadugu
+- 👋 Hi, I’m @Tharun Velupumadugu
 - 👀 I’m interested in ...UI/UX
 - 🌱 I’m currently learning ...Java,python
 - 💞️ I’m looking to collaborate on ...
